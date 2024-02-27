@@ -17,7 +17,7 @@ Sarch-Knows: Knowledge Graph for Supporting Sarch-Checks Method.
 
 ### Abstract
 
-Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed Sarch-Checks method. The artifact presented to ICSA corresponds to a compact version of this knowledge graph. TO COMPLETE...
+Sarch-Checks is a method that allows checking whether a security property is present in the architectural design of a given software system. To achieve this, Sarch-Checks receives an architecture description as input and makes use of a knowledge graph called Sarch-Knows, which models different security scenarios, based on different elements of software architecture and cybersecurity. This artifact presents a database instance in Neo4j, which models the Sarch-Knows knowledge graph. The database allows the execution of queries in Cypher language, the key element for the checking process carried out by Sarch-Checks.
 
 ### Overview
 
@@ -48,6 +48,6 @@ In order to interact with Sarch-Knows, it is necessary to recognize the way as t
 
 ![alt text](./figures/readme/fig2.png)
 
-### Examples
+### Queries
 
-A set of examples that can be executed, using the Cypher language in the Neo4j client, are described in [EXAMPLES](EXAMPLES.md).
+A set of queries that can be executed, using the Cypher language in the Neo4j client, are described in [EXAMPLES](EXAMPLES.md).
