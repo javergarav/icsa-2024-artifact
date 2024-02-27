@@ -52,4 +52,4 @@ The goal of this query is to get all the nodes and relationships in the database
 
 ### Queries
 
-A set of queries that can be executed, using the Cypher language in the Neo4j client, are described in [EXAMPLES](EXAMPLES.md).
+A set of queries that can be executed, using the Cypher language in the Neo4j client, are described in [QUERIES](QUERIES.md).
