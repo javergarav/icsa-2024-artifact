@@ -46,7 +46,7 @@ The Neoj4 client should appear as follows:
   > neo4j
 
 - **Password:**
-  > PASSWORD
+  > *The password can be found in the version of this README file upladed in [ICSA 2024 AE](https://nfdixcs.sdq.kastel.kit.edu/).>*
 
 ![alt text](./figures/install/fig4.png)
 
