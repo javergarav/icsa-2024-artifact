@@ -50,4 +50,4 @@ In order to interact with Sarch-Knows, it is necessary to recognize the way as t
 
 ### Examples
 
-Some examples that can be executed, using the Cypher language in the Neo4j client, are described in [TEST_CASES](TEST_CASES.md).
+A set of examples that can be executed, using the Cypher language in the Neo4j client, are described in [EXAMPLES](EXAMPLES.md).
