@@ -8,7 +8,7 @@
 * For **MacOS** operating system: [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 * For **Windows** operating system: [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
-## Execution
+## Step-by-Step
 
 In the operation system **Terminal**: 
 
