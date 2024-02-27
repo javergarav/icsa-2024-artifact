@@ -29,6 +29,11 @@ In order to interact with Sarch-Knows, it is necessary to recognize the way as t
 
 ![alt text](./figures/readme/fig1.png)
 
+**Notation:**
+
+1. sdfsdf
+2. fgfgdfg
+
 ### Examples
 
 Some examples that can be executed, using the Cypher language in the Neo4j client, are described in [Test Cases](TEST_CASES.md).
