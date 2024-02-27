@@ -10,9 +10,19 @@
 
 ## Execution
 
-**1.** In the operation system **Terminal**: execute the following command:
+In the operation system **Terminal**: 
+
+**1.** Execute the following command:
 
 > docker run --name neo4j-client -p 7474:7474 -p 7687:7687 -d neo4j
+
+**2.** Execute the following command to validate the correct container execution:
+
+> docker ps -a
+
+The container should appear as follows:
+
+![alt text](./images/img1.png)
 
 **2.** In a **web browser**: open the following URL:
 
