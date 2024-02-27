@@ -1,6 +1,6 @@
 # ICSA 2024 - Artifact
 
-Artifact for the 21st IEEE International Conference on Software Architecture (ICSA 2024)
+Artifact for the [21st IEEE International Conference on Software Architecture (ICSA 2024)](https://conf.researchr.org/track/icsa-2024/)
 
 ## Accepted Paper
 
