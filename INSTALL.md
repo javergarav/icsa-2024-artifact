@@ -1,21 +1,15 @@
-# Installation
+# INSTALL
 
-## Requirement
+## Requirements
 
-Docker installed
+[Docker](https://www.docker.com/) installed. If not, do the installation according to the following information:
 
-If OS is:
+* For a **Linux**-based operating system: [Docker Engine](https://docs.docker.com/engine/install/).
+* For **MacOS** operating system: [Docker Desktop](https://www.docker.com/products/docker-desktop/).
+* For **Windows** operating system: [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
-* [Linux](https://www.docker.com/products/docker-desktop/)
-* [MacOS](https://www.docker.com/products/docker-desktop/)
-* [Windows](https://www.docker.com/products/docker-desktop/)
+## Execution
 
-## Actiities
+Execute the following command in the terminal:
 
-Docker installed
-
-If OS is:
-
-Depnding of the operating system
-
-Artifact for the 21st IEEE International Conference on Software Architecture (ICSA 2024)
+> docker run --name neo4j-client -p 7474:7474 -p 7687:7687 -d neo4j
