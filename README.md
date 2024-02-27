@@ -31,8 +31,15 @@ In order to interact with Sarch-Knows, it is necessary to recognize the way as t
 
 **Notation:**
 
-1. sdfsdf
-2. fgfgdfg
+1. Neo4j client URL.
+2. Current user of the database.
+3. Node labels of the database. A **node label** is a way to categorize or group nodes based on their common characteristics or properties.
+4. Relationship types of the database. A **relationship** is a directed connection between two nodes.
+5. Property keys of the database. **Property keys** are used to define the attributes or properties of nodes and relationships.
+6. Field to perform Cypher queries. [Cypher](https://neo4j.com/developer/cypher/) is a declarative graph query language developed by Neo4j for querying, updating, and managing graph data stored in a Neo4j graph database.
+7. Button to run Cypher queries.
+8. Space where the results of Cypher queries appear.
+9. Information about the connection made to the database.
 
 ### Examples
 
