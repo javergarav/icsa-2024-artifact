@@ -17,7 +17,7 @@ Sarch-Knows: Knowledge Graph for Supporting Sarch-Checks Method.
 
 ### Abstract
 
-Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed install/. The artifact presented to ICSA corresponds to a compact version of this knowledge graph.
+Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed install/. The artifact presented to ICSA corresponds to a compact version of this knowledge graph. TO COMPLETE...
 
 ### Overview
 
@@ -36,7 +36,7 @@ In order to interact with Sarch-Knows, it is necessary to recognize the way as t
 3. Node labels of the database. A **node label** is a way to categorize or group nodes based on their common characteristics or properties.
 4. Relationship types of the database. A **relationship** is a directed connection between two nodes.
 5. Property keys of the database. **Property keys** are used to define the attributes or properties of nodes and relationships.
-6. Field to perform Cypher queries. [Cypher](https://neo4j.com/developer/cypher/) is a declarative graph query language developed by Neo4j for querying, updating, and managing graph data stored in a Neo4j graph database.
+6. Field to write Cypher queries. [Cypher](https://neo4j.com/developer/cypher/) is a declarative graph query language developed by Neo4j for querying, updating, and managing graph data stored in a Neo4j graph database.
 7. Button to run Cypher queries.
 8. Space where the results of Cypher queries appear.
 9. Information about the connection made to the database.
