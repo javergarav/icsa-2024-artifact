@@ -2,8 +2,8 @@
 
 ## Example #1
 
-Details
+Example #1
 
 ## Example #2
 
-Details
+Example #2

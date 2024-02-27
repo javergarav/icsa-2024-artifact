@@ -41,6 +41,15 @@ In order to interact with Sarch-Knows, it is necessary to recognize the way as t
 8. Space where the results of Cypher queries appear.
 9. Information about the connection made to the database.
 
+**3.** Execute the first Cypher query:
+
+    MATCH (n)-[r]-() RETURN
+    RETURN n, r
+
+![alt text](./figures/readme/fig2.png)
+
+**Notation:**
+
 ### Examples
 
-Some examples that can be executed, using the Cypher language in the Neo4j client, are described in [Test Cases](TEST_CASES.md).
+Some examples that can be executed, using the Cypher language in the Neo4j client, are described in [TEST_CASES](TEST_CASES.md).
