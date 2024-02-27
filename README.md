@@ -17,7 +17,7 @@ Sarch-Knows: Knowledge Graph for Supporting Sarch-Checks Method.
 
 ### Abstract
 
-Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed install/. The artifact presented to ICSA corresponds to a compact version of this knowledge graph. TO COMPLETE...
+Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed Sarch-Checks method. The artifact presented to ICSA corresponds to a compact version of this knowledge graph. TO COMPLETE...
 
 ### Overview
 
