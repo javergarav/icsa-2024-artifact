@@ -11,4 +11,14 @@ Artifact for the [21st IEEE International Conference on Software Architecture (I
 
 ## Artifact Details
 
-- **Name**: Sarch-Knows Knowlege Graph
+### Name
+
+Sarch-Knows
+
+### Abstract
+
+Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed Sarch-Checks method. The artifact presented to ICSA corresponds to a compact version of this knowledge graph.
+
+### Step-by-Step
+
+Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed Sarch-Checks method. The artifact presented to ICSA corresponds to a compact version of this knowledge graph.
