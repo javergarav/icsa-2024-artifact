@@ -49,3 +49,5 @@ The Neoj4 client should appear as follows:
 
 - **Password:**
   > PASSWORD
+
+![alt text](./figures/fig4.png)
