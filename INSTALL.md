@@ -10,7 +10,7 @@
 
 ## Step-by-Step
 
-**1.** In the operation system **Terminal**, execute the following command:
+**1.** In the operating system **Terminal**, execute the following command:
 
 > docker run --name neo4j-client -p 7474:7474 -p 7687:7687 -d neo4j
 
@@ -26,7 +26,7 @@ The container status should appear as follows:
 
 ![alt text](./figures/install/fig2.png)
 
-**2.** In a **web browser**, open the following URL:
+**3.** In a **web browser**, open the following URL:
 
 > [http://localhost:7474/](http://localhost:7474/)
 
@@ -34,7 +34,7 @@ The Neoj4 client should appear as follows:
 
 ![alt text](./figures/install/fig3.png)
 
-**3.** Connect to Neo4j using the following credentials:
+**4.** Connect to Neo4j using the following credentials:
 
 - **Connect URL:**
   > neo4j+s://e57b39bb.databases.neo4j.io:7687
