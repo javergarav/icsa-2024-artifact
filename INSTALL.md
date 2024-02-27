@@ -14,7 +14,11 @@ In the operation system **Terminal**:
 
 **1.** Execute the following command:
 
-> docker run --name neo4j-client -p 7474:7474 -p 7687:7687 -d neo4j
+> docker run --name neo4j-client -p 7474:7474 -p 7687:7687 neo4j
+
+After running the command, the terminal will appear as follows:
+
+![alt text](./figures/fig1.png)
 
 **2.** Execute the following command to validate the correct container execution:
 
@@ -22,7 +26,7 @@ In the operation system **Terminal**:
 
 The container should appear as follows:
 
-![alt text](./images/img1.png)
+![alt text](./figures/fig2.png)
 
 **2.** In a **web browser**: open the following URL:
 
@@ -30,4 +34,4 @@ The container should appear as follows:
 
 The Neoj4 client should appear as follows:
 
-![alt text](./images/img2.png)
+![alt text](./images/img3.png)
