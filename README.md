@@ -13,12 +13,16 @@ Artifact for the [21st IEEE International Conference on Software Architecture (I
 
 ### Name
 
-Sarch-Knows
+Sarch-Knows: Knowledge Graph for Supporting Sarch-Checks Method.
 
 ### Abstract
 
+Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed install/. The artifact presented to ICSA corresponds to a compact version of this knowledge graph.
+
+### Overview
+
 Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed Sarch-Checks method. The artifact presented to ICSA corresponds to a compact version of this knowledge graph.
 
-### Step-by-Step
+### Examples
 
-Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed Sarch-Checks method. The artifact presented to ICSA corresponds to a compact version of this knowledge graph.
+Some examples that can be executed, using the Cypher language in the Neo4j client, are described in [Test Cases](TEST_CASES.md).
