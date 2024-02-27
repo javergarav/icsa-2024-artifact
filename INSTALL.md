@@ -35,3 +35,17 @@ The container should appear as follows:
 The Neoj4 client should appear as follows:
 
 ![alt text](./figures/fig3.png)
+
+**3.** Connect to Neo4j using the following credentials:
+
+- **Connect URL:**
+> neo4j+s://e57b39bb.databases.neo4j.io:7687
+
+- **Authentication type:**
+> Username / Password
+
+- **Username:**
+> neo4j
+
+- **Password:**
+> PASSWORD
