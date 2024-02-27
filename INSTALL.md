@@ -22,7 +22,7 @@ After running the command, the terminal will appear as follows:
 
 > docker ps -a
 
-The container should appear as follows:
+The container status should appear as follows:
 
 ![alt text](./figures/fig2.png)
 
