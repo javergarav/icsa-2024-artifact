@@ -21,8 +21,6 @@ Sarch-Checks is a method that allows checking whether a security property is pre
 
 ### Overview
 
-In order to interact with Sarch-Knows, it is necessary to recognize the way as the Neo4j client works. Thus, general aspects are described below:
-
 In order to interact with Sarch-Knows, it is necessary to use a Neo4j client, which allows connection and interaction with the respective database. In this case, the Neo4j client is a web application deployed in a Docker container. General aspects are described below:
 
 **1.** Develop the [INSTALL](INSTALL.md) guide.
