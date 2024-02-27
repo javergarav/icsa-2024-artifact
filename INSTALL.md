@@ -52,6 +52,6 @@ The Neoj4 client should appear as follows:
 
 ![alt text](./figures/fig4.png)
 
-**4.** After the connection process, the Neoj4 client should appear as follows:
+After the connection process, the Neoj4 client should appear as follows:
 
 ![alt text](./figures/fig5.png)
