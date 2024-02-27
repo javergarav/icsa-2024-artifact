@@ -10,6 +10,10 @@
 
 ## Execution
 
-Execute the following command in the terminal:
+**1.** In the operation system **Terminal**: execute the following command:
 
 > docker run --name neo4j-client -p 7474:7474 -p 7687:7687 -d neo4j
+
+**2.** In a **web browser**: open the following URL:
+
+> [http://localhost:7474/](http://localhost:7474/)
