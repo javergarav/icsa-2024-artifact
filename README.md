@@ -46,6 +46,8 @@ In order to interact with Sarch-Knows, it is necessary to use a Neo4j client, wh
     MATCH (n)-[r]-()
     RETURN n, r
 
+The goal of this query is to get all the nodes and relationships in the database.
+
 ![alt text](./figures/readme/fig2.png)
 
 ### Queries
