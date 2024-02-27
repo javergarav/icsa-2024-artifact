@@ -21,7 +21,13 @@ Sarch-knows is a knowledge graph presented in the paper, required for the checki
 
 ### Overview
 
-Sarch-knows is a knowledge graph presented in the paper, required for the checking process of the proposed Sarch-Checks method. The artifact presented to ICSA corresponds to a compact version of this knowledge graph.
+In order to interact with Sarch-Knows, it is necessary to recognize the way as the Neo4j client works. Thus, general aspects are described below:
+
+**1.** Finish the [INSTALL](INSTALL.md) guide.
+
+**2.** Recognize the Neo4j client dashboard:
+
+![alt text](./figures/readme/fig1.png)
 
 ### Examples
 
