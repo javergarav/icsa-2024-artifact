@@ -34,4 +34,4 @@ The container should appear as follows:
 
 The Neoj4 client should appear as follows:
 
-![alt text](./images/img3.png)
+![alt text](./figures/fig3.png)
