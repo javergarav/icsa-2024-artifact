@@ -43,12 +43,10 @@ In order to interact with Sarch-Knows, it is necessary to recognize the way as t
 
 **3.** Execute the first Cypher query:
 
-    MATCH (n)-[r]-() RETURN
+    MATCH (n)-[r]-()
     RETURN n, r
 
 ![alt text](./figures/readme/fig2.png)
-
-**Notation:**
 
 ### Examples
 
