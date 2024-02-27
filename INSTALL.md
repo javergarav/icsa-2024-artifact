@@ -27,3 +27,7 @@ The container should appear as follows:
 **2.** In a **web browser**: open the following URL:
 
 > [http://localhost:7474/](http://localhost:7474/)
+
+The Neoj4 client should appear as follows:
+
+![alt text](./images/img2.png)
