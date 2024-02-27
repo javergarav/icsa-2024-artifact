@@ -16,7 +16,7 @@
 
 After running the command, the terminal will appear as follows:
 
-![alt text](./figures/fig1.png)
+![alt text](./figures/install/fig1.png)
 
 **2.** Execute the following command to validate the correct container execution:
 
@@ -24,7 +24,7 @@ After running the command, the terminal will appear as follows:
 
 The container status should appear as follows:
 
-![alt text](./figures/fig2.png)
+![alt text](./figures/install/fig2.png)
 
 **2.** In a **web browser**, open the following URL:
 
@@ -32,7 +32,7 @@ The container status should appear as follows:
 
 The Neoj4 client should appear as follows:
 
-![alt text](./figures/fig3.png)
+![alt text](./figures/install/fig3.png)
 
 **3.** Connect to Neo4j using the following credentials:
 
@@ -48,8 +48,8 @@ The Neoj4 client should appear as follows:
 - **Password:**
   > PASSWORD
 
-![alt text](./figures/fig4.png)
+![alt text](./figures/install/fig4.png)
 
 After the connection process, the Neoj4 client should appear as follows:
 
-![alt text](./figures/fig5.png)
+![alt text](./figures/install/fig5.png)
