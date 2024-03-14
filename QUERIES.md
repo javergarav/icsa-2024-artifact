@@ -23,4 +23,4 @@ Subgraph associated with the implementation details of the *Authenticator* archi
 
 Subgraph associated with the REST architectural element, in terms of its possible weaknesses and countermeasures:
 
-    MATCH subgraph = (a:detailed {short_name: 'REST'})-[:MayHave|CanAffect|IsRelatedTo|CanBeMitigatedBy|CanBeImplementedBy*]-(b) RETURN subgraph;
+    MATCH subgraph = (a:detailed {short_name: 'REST'})-[:MayHave|CanAffect|IsRelatedTo|CanBeMitigatedBy|CanBeImplementedBy*]-(b) RETURN subgraph
